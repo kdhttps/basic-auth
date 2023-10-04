@@ -1,1 +1,18 @@
-{}
+{
+    "basic-auth": {
+        "projectName": "basic-auth",
+        "description": "basic auth",
+        "type": "community",
+        "author": "kdhttps",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/kdhttps/basic-auth",
+        "githubUri": "https://github.com/kdhttps/basic-auth",
+        "license": "apache-2.0",
+        "lastUpdated": "1696414780118",
+        "tags": [
+            "openid-connect"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
